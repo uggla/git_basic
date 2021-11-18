@@ -1,3 +1,3 @@
-Demo git 2
+Demo git advanced
 Salut c'est Majid !
 Add nene
